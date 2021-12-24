@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" Inherits="System.Web.Mvc.ViewPage<dynamic>"%>
 <!DOCTYPE HTML>
 <meta charset=utf-8>
-<title>威廉祝你聖誕快樂</title>
+<title>宝贝祝你聖誕快樂</title>
 <meta name=viewport content='width=device-width, initial-scale=1, user-scalable=0'>
 <script>
   document.getElementsByTagName('html')[0].style.fontSize = innerWidth / 7.2 + 'px'
